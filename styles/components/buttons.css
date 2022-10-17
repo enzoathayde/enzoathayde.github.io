@@ -1,0 +1,24 @@
+.button { 
+
+    display: inline-block;
+    background: #5BC6B8;
+    height: 60px;
+    padding: 20px 18px;
+    line-height: 60px;
+    box-shadow: 7px 5px 2px #000000;
+    transition-duration: 700ms;
+    font-family: "DM Sans";
+    text-decoration: none;
+    color: aliceblue ;
+    font-weight: 800px;
+
+
+
+}
+
+.button:hover {
+
+    transform: scale(1.10);
+    background-color:#F25A70;
+
+}

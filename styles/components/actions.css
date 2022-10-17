@@ -1,0 +1,25 @@
+
+.linksnav {
+
+    margin-top: 20px;
+    align-items: center;
+    display: inline-flex;
+    color: rgb(256,256,256);
+    font-family: "DM Sans";
+    font-weight: 700;
+    margin-right: 30px; 
+    text-decoration: none;
+
+}
+
+
+
+.linksnav::before {
+
+    content: "";
+    background-color: #5BC6B8;
+    color: #5BC6B8;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px; 
+}
