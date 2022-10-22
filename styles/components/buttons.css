@@ -10,7 +10,7 @@
     font-family: "DM Sans";
     text-decoration: none;
     color: aliceblue ;
-    font-weight: 800px;
+    font-weight: 3000px;
 
 
 
@@ -18,7 +18,7 @@
 
 .button:hover {
 
-    transform: scale(1.10);
+    transform: scale(1.08);
     background-color:#F25A70;
-
+    
 }

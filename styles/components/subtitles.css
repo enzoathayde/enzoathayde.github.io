@@ -1,6 +1,7 @@
 h2.index{
 
-
+    text-align: center;
+    font-family: "Space Mono";
     color: #F25A70;
     font-size: 40px;
     text-shadow: 3px 3px 1px #000000;
@@ -9,7 +10,8 @@ h2.index{
 
 h3.index {
 
-
+    text-align: center;
+    font-family: "Space Mono";
     color: #8a92ff;
     font-size: 30px;
     text-shadow: 3px 3px 1px #000000;

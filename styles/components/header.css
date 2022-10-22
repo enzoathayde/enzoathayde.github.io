@@ -3,9 +3,17 @@ header.index {
     justify-content: space-between; /* CADA ELEMENTO EM UMA EXTREMIDADE*/
     display: flex;
     padding: 10px  20px;
-    border-bottom : 10px solid #000000;
+    border-bottom : 10px solid #6e6a6c;
     background-color: #4A4146;
     height: 80px;
  
  
  }
+
+ nav.index {
+
+    
+    padding-top:20px;
+
+
+ }  
