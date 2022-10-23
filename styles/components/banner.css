@@ -3,9 +3,14 @@
     background-image: url('../../assets/background.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
-    border-bottom: 10px solid #000;
-    height: 800px;
+    height: 766px;
 
 
 }   
 
+.skills {
+
+    background-color: #788bff;
+    border-top: 10px rgb(27, 26, 26) solid;
+
+}

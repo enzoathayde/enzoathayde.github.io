@@ -1,0 +1,107 @@
+#html {
+
+    background: #67d295;
+    animation: loadinghtml 2s forwards cubic-bezier(0.19, 1, 0.22, 1);
+    height: 20px;
+    animation-duration: 9000ms;
+
+}
+
+#css {
+
+    background: #67d295;
+    animation: loadingcss 2s forwards cubic-bezier(0.19, 1, 0.22, 1);
+    height: 20px;
+    animation-duration: 9000ms;
+
+}
+
+#git {
+
+    background: #67d295;
+    animation: loadinggit 2s forwards cubic-bezier(0.19, 1, 0.22, 1);
+    height: 20px;
+    animation-duration: 9000ms;
+
+}
+
+#figma {
+
+    background: #67d295;
+    animation: loadingfigma 2s forwards cubic-bezier(0.19, 1, 0.22, 1);
+    height: 20px;
+    animation-duration: 9000ms;
+
+}
+
+@keyframes loadinghtml {
+
+ 0% {
+
+    width: 0%;
+ 
+}
+
+ 100% {
+ 
+    width: 78%;
+
+ }
+
+
+
+}
+
+@keyframes loadingcss {
+
+    0% {
+   
+       width: 0%;
+    
+   }
+   
+    100% {
+    
+       width: 50%;
+   
+    }
+   
+   
+   
+   }
+
+   @keyframes loadinggit {
+
+    0% {
+   
+       width: 0%;
+    
+   }
+   
+    100% {
+    
+       width: 66%;
+   
+    }
+   
+   
+   
+   }
+
+   @keyframes loadingfigma {
+
+    0% {
+   
+       width: 0%;
+    
+   }
+   
+    100% {
+    
+       width: 32%;
+   
+    }
+   
+   
+   
+   }

@@ -17,3 +17,30 @@ h3.index {
     text-shadow: 3px 3px 1px #000000;
 
 }
+
+
+#sec { 
+
+    padding-top: 2%;
+    font-family: "Space Mono"; 
+    color: antiquewhite;   
+    font-size: 40px;
+    text-align: center;
+
+}
+
+
+h4.index {
+
+    font-family: "Trispace", sans-serif;
+    color: #FFF;
+    font-size: 30px;
+ 
+}
+
+p.index {
+
+    color: #FFF;
+    font-family: "Trispace", sans-serif;
+    text-align: center;
+}
