@@ -1,0 +1,26 @@
+@keyframes grow-shrink {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.4);
+  }
+}
+
+.preload
+{
+  margin-top: 400px;
+  animation: grow-shrink 2s infinite;
+  font-family: 'Mako', sans-serif;
+  font-size: 4em;
+  display: flex;
+  place-content: center;
+}
+
+.content
+{
+  display: none;
+}
+
+
+
